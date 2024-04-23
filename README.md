@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephyr41" alt="zephyr41" /></a> </p>
 
-- 🔭 I’m currently working on [Scrap](https://github.com/wheatis/Scrapping_beginner.git)
+- 🔭 I’m currently working on [Web Scrapping](https://github.com/wheatis/Scrapping_beginner.git)
 
 - 🌱 I’m currently learning **Osint, Red teamming, Programmation**
 
